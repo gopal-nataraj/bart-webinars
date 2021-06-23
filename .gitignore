@@ -1,4 +1,7 @@
-.ipynb_checkpoints/
+*.DS_Store
+*.cfl
+*.hdr
+*.ipynb_checkpoints/
 *.swp
 *~
-.DS_Store
+
